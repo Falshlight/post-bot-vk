@@ -1,0 +1,19 @@
+[INFO] [Wed Oct 24 18:08:51 2018]: Initialized win_control_bot!
+[INFO] [Wed Oct 24 18:11:03 2018]: Initialized win_control_bot!
+[INFO] [Wed Oct 24 18:14:09 2018]: Initialized win_control_bot!
+[INFO] [Wed Oct 24 18:16:00 2018]: Initialized win_control_bot!
+[INFO] [Wed Oct 24 18:18:11 2018]: Initialized win_control_bot!
+[INFO] [Wed Oct 24 18:20:43 2018]: Initialized win_control_bot!
+[INFO] [Wed Oct 24 18:27:44 2018]: Initialized win_control_bot!
+[INFO] [Wed Oct 24 18:28:15 2018]: Initialized win_control_bot!
+[INFO] [Wed Oct 24 18:31:19 2018]: Initialized win_control_bot!
+[ERROR] [Wed Oct 24 18:35:29 2018]: 5. User authorization failed: no access_token passed.. request_params = {'method': 'newsfeed.search', 'count': '5', 'v': '5.12', 'q': 'Р®Р»СЏ РљР°Р»РёРЅРєРѕРІР°', 'oauth': '1'}
+[INFO] [Thu Oct 25 21:30:19 2018]: Initialized win_control_bot!
+[ERROR] [Thu Oct 25 21:34:29 2018]: 5. User authorization failed: no access_token passed.. request_params = {'oauth': '1', 'q': 'Р®Р»СЏ РљР°Р»РёРЅРєРѕРІР°', 'v': '5.12', 'count': '5', 'method': 'newsfeed.search'}
+[INFO] [Fri Oct 26 12:43:21 2018]: Initialized win_control_bot!
+[ERROR] [Fri Oct 26 12:47:32 2018]: 5. User authorization failed: no access_token passed.. request_params = {'oauth': '1', 'q': 'Р®Р»СЏ РљРѕРІР°Р»С‘РІР°', 'count': '5', 'method': 'newsfeed.search', 'v': '5.12'}
+[INFO] [Fri Oct 26 13:53:10 2018]: Initialized win_control_bot!
+[ERROR] [Fri Oct 26 13:57:21 2018]: 5. User authorization failed: no access_token passed.. request_params = {'v': '5.12', 'method': 'newsfeed.search', 'count': '5', 'oauth': '1', 'q': 'Р®Р»СЏ РљРѕРІР°Р»С‘РІР°'}
+[INFO] [Fri Oct 26 16:35:50 2018]: Initialized win_control_bot!
+[INFO] [Fri Oct 26 21:43:33 2018]: Initialized win_control_bot!
+[INFO] [Sat Oct 27 12:30:38 2018]: Initialized win_control_bot!

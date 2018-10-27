@@ -1,0 +1,795 @@
+[INFO] [Wed Oct 24 18:08:51 2018]: Initialized
+[INFO] [Wed Oct 24 18:11:03 2018]: Initialized
+[INFO] [Wed Oct 24 18:14:09 2018]: Initialized
+[INFO] [Wed Oct 24 18:16:00 2018]: Initialized
+[INFO] [Wed Oct 24 18:16:01 2018]: Word  found in автохимия, автокосметика. рб
+[INFO] [Wed Oct 24 18:16:01 2018]: Word магазин found in 『hot chocolate』k-pop магазин | k-pop shop
+[INFO] [Wed Oct 24 18:16:01 2018]: researching
+[INFO] [Wed Oct 24 18:16:01 2018]: Word  found in delta game
+[INFO] [Wed Oct 24 18:16:01 2018]: Word  found in blockchain life 2018
+[INFO] [Wed Oct 24 18:16:01 2018]: researching
+[INFO] [Wed Oct 24 18:16:01 2018]: Word  found in салон milavida
+[INFO] [Wed Oct 24 18:16:01 2018]: Word норильск found in фитнес-проект "тime to сушка" норильск
+[INFO] [Wed Oct 24 18:16:01 2018]: researching
+[INFO] [Wed Oct 24 18:16:05 2018]: Word норильск found in фитнес-проект "тime to сушка" норильск
+[INFO] [Wed Oct 24 18:16:05 2018]: Word  found in доставка "суши нск"
+[INFO] [Wed Oct 24 18:16:05 2018]: Word  found in креативный родительский комитет
+[INFO] [Wed Oct 24 18:16:05 2018]: researching
+[INFO] [Wed Oct 24 18:16:05 2018]: Word  found in snak[игры,конкурсы,новости]
+[INFO] [Wed Oct 24 18:16:05 2018]: Word  found in gamdom
+[INFO] [Wed Oct 24 18:16:05 2018]: Word фитнес found in platinum студия фитнеса, солярий.
+[INFO] [Wed Oct 24 18:16:05 2018]: researching
+[INFO] [Wed Oct 24 18:16:08 2018]: Word советск found in "евроцирк" покоряет советск с 24 ноября
+[INFO] [Wed Oct 24 18:16:08 2018]: Word  found in dusty gold
+[INFO] [Wed Oct 24 18:16:09 2018]: Word магазин found in 『hot chocolate』k-pop магазин | k-pop shop
+[INFO] [Wed Oct 24 18:16:09 2018]: researching
+[INFO] [Wed Oct 24 18:16:09 2018]: Word  found in tvil.ru - бронирование отелей, квартир и домов
+[INFO] [Wed Oct 24 18:16:09 2018]: Word  found in прогнозы на спорт | live от dadbet
+[INFO] [Wed Oct 24 18:16:09 2018]: Word  found in топ группа для подписчиков landblast
+[INFO] [Wed Oct 24 18:16:09 2018]: researching
+[INFO] [Wed Oct 24 18:16:09 2018]: Word  found in юнион гранд вояж, сеть турагентств
+[INFO] [Wed Oct 24 18:16:12 2018]: Word оса found in книга для души сергиев посад
+[INFO] [Wed Oct 24 18:16:12 2018]: Word магазин found in зоомагазин "барбосик"
+[INFO] [Wed Oct 24 18:16:12 2018]: researching
+[INFO] [Wed Oct 24 18:16:12 2018]: Word магазин found in ❦shopping.doma❦fl - интернет-магазин faberlic вк
+[INFO] [Wed Oct 24 18:16:12 2018]: Word  found in #кроваткидаром - детские кроватки-трансформеры
+[INFO] [Wed Oct 24 18:16:12 2018]: Word бор found in #общийсбор  vol.2 - тот самый день первокурсника
+[INFO] [Wed Oct 24 18:16:12 2018]: researching
+[INFO] [Wed Oct 24 18:16:12 2018]: Word бор found in #общийсбор  vol.2 - тот самый день первокурсника
+[INFO] [Wed Oct 24 18:16:12 2018]: Word  found in denuxakep [anti] block strike
+[INFO] [Wed Oct 24 18:18:11 2018]: Initialized
+[INFO] [Wed Oct 24 18:18:14 2018]: Word  found in 🏆вечерняя футбольная лига🏆
+[INFO] [Wed Oct 24 18:18:20 2018]: researching
+[INFO] [Wed Oct 24 18:18:26 2018]: Word  found in автохимия, автокосметика. рб
+[INFO] [Wed Oct 24 18:18:30 2018]: Word магазин found in 『hot chocolate』k-pop магазин | k-pop shop
+[INFO] [Wed Oct 24 18:18:30 2018]: researching
+[INFO] [Wed Oct 24 18:18:33 2018]: Word  found in delta game
+[INFO] [Wed Oct 24 18:18:36 2018]: Word  found in blockchain life 2018
+[INFO] [Wed Oct 24 18:18:39 2018]: researching
+[INFO] [Wed Oct 24 18:18:45 2018]: Word  found in салон milavida
+[INFO] [Wed Oct 24 18:18:48 2018]: Word норильск found in фитнес-проект "тime to сушка" норильск
+[INFO] [Wed Oct 24 18:18:48 2018]: researching
+[INFO] [Wed Oct 24 18:18:51 2018]: Word норильск found in фитнес-проект "тime to сушка" норильск
+[INFO] [Wed Oct 24 18:18:54 2018]: Word  found in доставка "суши нск"
+[INFO] [Wed Oct 24 18:18:57 2018]: Word  found in креативный родительский комитет
+[INFO] [Wed Oct 24 18:18:57 2018]: researching
+[INFO] [Wed Oct 24 18:19:00 2018]: Word  found in snak[игры,конкурсы,новости]
+[INFO] [Wed Oct 24 18:19:03 2018]: Word  found in gamdom
+[INFO] [Wed Oct 24 18:19:06 2018]: Word фитнес found in platinum студия фитнеса, солярий.
+[INFO] [Wed Oct 24 18:19:06 2018]: researching
+[INFO] [Wed Oct 24 18:19:09 2018]: Word советск found in "евроцирк" покоряет советск с 24 ноября
+[INFO] [Wed Oct 24 18:19:12 2018]: Word  found in dusty gold
+[INFO] [Wed Oct 24 18:19:16 2018]: Word магазин found in 『hot chocolate』k-pop магазин | k-pop shop
+[INFO] [Wed Oct 24 18:19:16 2018]: researching
+[INFO] [Wed Oct 24 18:19:19 2018]: Word  found in snak[игры,конкурсы,новости]
+[INFO] [Wed Oct 24 18:19:22 2018]: Word  found in gamdom
+[INFO] [Wed Oct 24 18:19:25 2018]: Word фитнес found in platinum студия фитнеса, солярий.
+[INFO] [Wed Oct 24 18:19:25 2018]: researching
+[INFO] [Wed Oct 24 18:19:28 2018]: Word советск found in "евроцирк" покоряет советск с 24 ноября
+[INFO] [Wed Oct 24 18:19:31 2018]: Word  found in dusty gold
+[INFO] [Wed Oct 24 18:19:34 2018]: Word магазин found in 『hot chocolate』k-pop магазин | k-pop shop
+[INFO] [Wed Oct 24 18:19:34 2018]: researching
+[INFO] [Wed Oct 24 18:19:37 2018]: Word  found in tvil.ru - бронирование отелей, квартир и домов
+[INFO] [Wed Oct 24 18:19:40 2018]: Word  found in прогнозы на спорт | live от dadbet
+[INFO] [Wed Oct 24 18:20:43 2018]: Initialized
+[INFO] [Wed Oct 24 18:20:45 2018]: Word стерлитамак found in доставка "золотой дракон", г.стерлитамак
+[INFO] [Wed Oct 24 18:20:46 2018]: Word магазин found in 『hot chocolate』k-pop магазин | k-pop shop
+[INFO] [Wed Oct 24 18:27:44 2018]: Initialized
+[INFO] [Wed Oct 24 18:28:15 2018]: Initialized
+[INFO] [Wed Oct 24 18:28:17 2018]: Reposted wall-98804167_10634
+[INFO] [Wed Oct 24 18:28:19 2018]: Reposted wall-166375800_142
+[INFO] [Wed Oct 24 18:28:21 2018]: Word магазин found in гель лаки курск, ресницы • магазин бон бон
+[INFO] [Wed Oct 24 18:31:19 2018]: Initialized
+[INFO] [Wed Oct 24 18:31:21 2018]: Word колпино found in детские праздники спб и колпино. подари счастье.
+[INFO] [Wed Oct 24 18:31:23 2018]: Word магазин found in 『hot chocolate』k-pop магазин | k-pop shop
+[INFO] [Wed Oct 24 18:31:25 2018]: Reposted wall-36773250_44729
+[INFO] [Wed Oct 24 18:46:27 2018]: Reposted wall-129174364_47002
+[INFO] [Wed Oct 24 18:46:29 2018]: Reposted wall-155529902_1237
+[INFO] [Wed Oct 24 18:46:31 2018]: Reposted wall-125289902_33522
+[INFO] [Wed Oct 24 19:01:33 2018]: Reposted wall-119563380_78
+[INFO] [Wed Oct 24 19:01:35 2018]: Word клуб found in 1клуб виртуальной реальности #vrgomel | #1vr
+[INFO] [Wed Oct 24 19:01:37 2018]: Reposted wall-70131408_19444
+[INFO] [Wed Oct 24 19:16:42 2018]: Reposted wall-172150885_17
+[INFO] [Wed Oct 24 19:31:44 2018]: Reposted wall-170389082_8879
+[INFO] [Wed Oct 24 19:31:46 2018]: Reposted wall-91313391_45704
+[INFO] [Wed Oct 24 19:31:48 2018]: Reposted wall-112532388_5677
+[INFO] [Wed Oct 24 19:46:50 2018]: Reposted wall-146462015_9541
+[INFO] [Wed Oct 24 19:46:51 2018]: Created '1' comment
+[INFO] [Wed Oct 24 19:46:53 2018]: Reposted wall-96219979_2296046
+[INFO] [Wed Oct 24 19:46:54 2018]: Word магазин found in 『hot chocolate』k-pop магазин | k-pop shop
+[INFO] [Wed Oct 24 20:01:56 2018]: Reposted wall-172035673_24
+[INFO] [Wed Oct 24 20:01:58 2018]: Reposted wall-124609068_49230
+[INFO] [Wed Oct 24 20:02:00 2018]: Reposted wall-159071165_1431
+[INFO] [Wed Oct 24 20:17:02 2018]: Word магазин found in road to win – спортивный магазин
+[INFO] [Wed Oct 24 20:17:04 2018]: Reposted wall-171606738_708
+[INFO] [Wed Oct 24 20:17:06 2018]: Reposted wall-170374193_71
+[INFO] [Wed Oct 24 20:32:09 2018]: Reposted wall-133172083_413
+[INFO] [Wed Oct 24 20:32:09 2018]: Created '1' comment
+[INFO] [Wed Oct 24 20:32:11 2018]: Reposted wall-17700656_119392
+[INFO] [Wed Oct 24 20:32:13 2018]: Reposted wall-32844097_223817
+[INFO] [Wed Oct 24 20:47:17 2018]: Reposted wall-139448445_452
+[INFO] [Wed Oct 24 20:47:19 2018]: Word бар found in "витамин" фруктовые букеты барнаул.
+[INFO] [Wed Oct 24 21:02:21 2018]: Reposted wall-151689005_20232
+[INFO] [Wed Oct 24 21:02:25 2018]: Reposted wall-93130407_38173
+[INFO] [Wed Oct 24 21:17:27 2018]: Word мытищи found in eventime - мытищи
+[INFO] [Wed Oct 24 21:17:29 2018]: Reposted wall-172828439_295
+[INFO] [Wed Oct 24 21:17:30 2018]: Reposted wall-172878799_14
+[INFO] [Wed Oct 24 21:17:31 2018]: Created '1' comment
+[INFO] [Wed Oct 24 21:32:33 2018]: Reposted wall-168570424_3594
+[INFO] [Wed Oct 24 21:32:35 2018]: Word воронеж found in риа воронеж
+[INFO] [Wed Oct 24 21:32:37 2018]: Reposted wall-168570424_3593
+[INFO] [Wed Oct 24 21:47:41 2018]: Reposted wall-170124597_135
+[INFO] [Wed Oct 24 22:02:44 2018]: Reposted wall-65321724_34807
+[INFO] [Wed Oct 24 22:02:46 2018]: Reposted wall-162657968_2600
+[INFO] [Wed Oct 24 22:02:48 2018]: Reposted wall-162469205_80
+[INFO] [Wed Oct 24 22:17:50 2018]: Word питер found in бесплатный питер (петербург)
+[INFO] [Wed Oct 24 22:17:52 2018]: Reposted wall-163520069_119
+[INFO] [Wed Oct 24 22:32:56 2018]: Reposted wall-171695019_347
+[INFO] [Wed Oct 24 22:32:57 2018]: Word тула found in тула под микроскопом, афиша, тульские новости
+[INFO] [Wed Oct 24 22:32:59 2018]: Reposted wall-36253864_172207
+[INFO] [Wed Oct 24 22:48:01 2018]: Reposted wall-131824477_1070
+[INFO] [Wed Oct 24 22:48:03 2018]: Reposted wall-100344122_3338
+[INFO] [Wed Oct 24 23:03:07 2018]: Reposted wall-141188482_75409
+[INFO] [Wed Oct 24 23:03:08 2018]: Reposted wall-153139996_3621
+[INFO] [Wed Oct 24 23:03:10 2018]: Reposted wall-171612975_17
+[INFO] [Wed Oct 24 23:18:13 2018]: Word колпино found in ветеринарнарный центр колпино"леноблвет"
+[INFO] [Wed Oct 24 23:18:16 2018]: researching
+[INFO] [Wed Oct 24 23:18:17 2018]: Reposted wall-153651841_476
+[INFO] [Wed Oct 24 23:18:21 2018]: Reposted wall-171259369_58
+[INFO] [Wed Oct 24 23:33:23 2018]: Word муром found in мастерская подарков юлии шишковой (г.муром)
+[INFO] [Wed Oct 24 23:33:24 2018]: Reposted wall-167062029_935
+[INFO] [Wed Oct 24 23:33:26 2018]: Word магазин found in kukla. магазин модной одежды и обуви
+[INFO] [Wed Oct 24 23:48:28 2018]: Reposted wall-136833084_887
+[INFO] [Wed Oct 24 23:48:30 2018]: Word ростов found in афиша ростова-на-дону - анонсы и репортажи.
+[INFO] [Wed Oct 24 23:48:31 2018]: Reposted wall-167523359_50
+[ERROR] [Thu Oct 25 00:07:42 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'newsfeed.search', 'oauth': '1', 'offset': '0', 'count': '3', 'q': 'СЂРµРїРѕСЃС‚ СЂРѕР·С‹РіСЂС‹С€', 'v': '5.12'}
+[ERROR] [Thu Oct 25 00:11:53 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 00:16:04 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 00:20:15 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 00:24:26 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 00:28:36 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 00:32:47 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 00:36:58 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 00:41:09 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 00:45:20 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 00:49:30 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 00:53:41 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 00:57:52 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 01:02:03 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 01:06:14 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 01:10:24 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 01:14:35 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 01:18:46 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 01:22:57 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 01:27:08 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 01:31:18 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 01:35:29 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 01:39:40 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 01:43:50 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 01:48:01 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 01:52:12 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 01:56:23 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 02:00:35 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 02:04:45 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 02:08:56 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 02:13:07 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 02:17:18 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 02:21:29 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 02:25:39 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 02:29:50 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 02:34:01 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 02:38:12 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 02:42:23 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 02:46:33 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 02:50:44 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 02:54:55 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 02:59:06 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 03:03:17 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 03:07:27 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 03:11:38 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 03:15:49 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 03:20:00 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 03:24:10 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 03:28:21 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 03:32:32 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 03:36:43 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 03:40:54 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 03:45:05 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 03:49:15 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 03:53:26 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 03:57:37 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 04:01:48 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 04:05:59 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 04:10:09 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 04:14:20 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 04:18:31 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 04:22:42 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 04:26:53 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 04:31:03 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 04:35:14 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 04:39:25 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 04:43:36 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 04:47:47 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 04:51:57 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 04:56:08 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 05:00:19 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 05:04:30 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 05:08:41 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 05:12:52 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 05:17:02 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 05:21:13 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 05:25:24 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 05:29:35 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 05:33:46 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 05:37:56 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 05:42:07 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 05:46:18 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 05:50:29 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 05:54:39 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 05:58:50 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 06:03:01 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 06:07:12 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 06:11:23 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 06:15:33 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 06:19:44 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 06:23:55 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 06:28:06 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 06:32:17 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 06:36:28 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 06:40:38 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 06:44:49 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 06:49:00 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 06:53:11 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 06:57:21 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 07:01:32 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 07:05:43 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 07:09:54 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 07:14:05 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 07:18:15 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 07:22:26 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 07:26:37 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 07:30:48 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 07:34:58 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 07:39:09 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 07:43:20 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 07:47:31 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 07:51:42 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 07:55:52 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 08:00:03 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 08:04:14 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 08:08:25 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 08:12:36 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 08:16:47 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 08:20:57 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 08:25:08 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 08:29:19 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 08:33:30 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 08:37:41 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 08:41:51 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 08:46:02 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 08:50:14 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 08:54:25 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 08:58:36 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 09:02:47 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 09:06:57 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 09:11:08 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 09:15:19 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 09:19:30 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 09:23:41 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 09:27:51 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 09:32:02 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 09:36:13 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 09:40:24 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 09:44:34 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 09:48:46 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 09:52:56 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 09:57:07 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 10:01:18 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 10:05:29 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 10:09:39 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 10:13:50 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 10:18:01 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 10:22:12 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 10:26:23 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 10:30:34 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 10:34:44 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 10:38:55 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 10:43:06 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 10:47:17 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 10:51:27 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 10:55:38 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 10:59:49 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 11:04:00 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 11:08:11 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 11:12:21 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 11:16:32 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 11:20:43 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 11:24:54 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 11:29:05 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 11:33:15 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 11:37:26 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 11:41:37 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 11:45:48 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 11:49:59 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 11:54:09 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 11:58:20 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 12:02:31 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 12:06:42 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 12:10:53 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 12:15:04 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 12:19:15 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 12:23:25 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[ERROR] [Thu Oct 25 12:27:36 2018]: 5. User authorization failed: invalid access_token (2).. request_params = {'method': 'messages.send', 'user_id': '173282696', 'v': '5.12', 'oauth': '1'}
+[INFO] [Thu Oct 25 21:30:19 2018]: Initialized
+[INFO] [Thu Oct 25 21:30:21 2018]: Word донецк found in мягкая мебель "сота" донецк
+[INFO] [Thu Oct 25 21:30:24 2018]: Reposted wall-157515933_371
+[INFO] [Thu Oct 25 21:52:56 2018]: Word лух found in подарим лизе кузнецовой полноценный слух вместе
+[INFO] [Thu Oct 25 21:52:59 2018]: Reposted wall-128457038_300
+[INFO] [Thu Oct 25 22:15:32 2018]: Reposted wall-77544553_172032
+[INFO] [Thu Oct 25 22:15:35 2018]: Reposted wall-164397289_68
+[INFO] [Thu Oct 25 22:38:07 2018]: Word великий новгород found in кафе "шкипер" великий новгород
+[INFO] [Thu Oct 25 22:38:09 2018]: Reposted wall-58281791_4273
+[INFO] [Thu Oct 25 22:38:11 2018]: Reposted wall-152803339_90784
+[INFO] [Thu Oct 25 23:00:43 2018]: Reposted wall-84290537_15912
+[INFO] [Thu Oct 25 23:00:45 2018]: Reposted wall-8734369_6192
+[INFO] [Thu Oct 25 23:23:19 2018]: Reposted wall-107817216_1780
+[INFO] [Thu Oct 25 23:45:54 2018]: Word сокол found in анюта соколова
+[INFO] [Thu Oct 25 23:45:55 2018]: Reposted wall-150214921_1583
+[INFO] [Thu Oct 25 23:45:56 2018]: Created '1' comment
+[INFO] [Thu Oct 25 23:45:57 2018]: Reposted wall-172982795_4
+[INFO] [Fri Oct 26 00:08:29 2018]: Word кафе found in чегевара | пицца | роллы | доставка | кафе челны
+[INFO] [Fri Oct 26 00:08:32 2018]: researching
+[INFO] [Fri Oct 26 00:08:34 2018]: Reposted wall-27474468_31372
+[INFO] [Fri Oct 26 00:08:36 2018]: Word советск found in наращивание ресниц в г. йошкар- о, пгт советский
+[INFO] [Fri Oct 26 00:31:09 2018]: Reposted wall-172204922_42
+[INFO] [Fri Oct 26 00:31:13 2018]: Reposted wall-160215574_1073
+[INFO] [Fri Oct 26 00:53:45 2018]: Reposted wall-26126255_122113
+[INFO] [Fri Oct 26 00:53:47 2018]: Word тамбов found in бесплатный тамбов
+[INFO] [Fri Oct 26 00:53:48 2018]: Reposted wall-167824116_1613
+[INFO] [Fri Oct 26 01:16:21 2018]: Reposted wall-171184248_318
+[INFO] [Fri Oct 26 01:16:22 2018]: Word калининград found in афиша калининграда
+[INFO] [Fri Oct 26 01:16:24 2018]: Reposted wall-69115030_22025
+[INFO] [Fri Oct 26 01:38:58 2018]: Word сочи found in motozona23  / мото / питбайк / запчасти / сочи
+[INFO] [Fri Oct 26 01:38:59 2018]: Reposted wall-123804200_19921
+[INFO] [Fri Oct 26 02:01:31 2018]: Reposted wall-151451802_270561
+[INFO] [Fri Oct 26 02:01:33 2018]: Word нижний новгород found in свидание на крыше  нижний новгород
+[INFO] [Fri Oct 26 02:01:35 2018]: Reposted wall-140390836_2378
+[INFO] [Fri Oct 26 02:01:35 2018]: Created '1' comment
+[INFO] [Fri Oct 26 02:24:09 2018]: Reposted wall-133981240_26599
+[INFO] [Fri Oct 26 02:46:43 2018]: Reposted wall-170007498_907
+[INFO] [Fri Oct 26 02:46:44 2018]: Created '1' comment
+[INFO] [Fri Oct 26 02:46:47 2018]: Reposted wall-171024155_74
+[INFO] [Fri Oct 26 03:09:19 2018]: Reposted wall-100387013_1561285
+[INFO] [Fri Oct 26 03:09:21 2018]: Word фитнес found in mi band 3 | умные часы | фитнес браслет
+[INFO] [Fri Oct 26 03:09:22 2018]: Reposted wall-162490550_1380
+[INFO] [Fri Oct 26 03:31:57 2018]: Reposted wall-135457081_145
+[INFO] [Fri Oct 26 03:31:58 2018]: Reposted wall-109799541_41070
+[INFO] [Fri Oct 26 03:54:33 2018]: researching
+[INFO] [Fri Oct 26 03:54:38 2018]: researching
+[INFO] [Fri Oct 26 03:54:40 2018]: Reposted wall-171914051_13
+[INFO] [Fri Oct 26 03:54:41 2018]: Word тамбов found in центр цветов "la rose" г. тамбов
+[INFO] [Fri Oct 26 04:17:14 2018]: Word горно-алтайск found in roll'n'roll *роллы*суши*пицца*   г.горно-алтайск
+[INFO] [Fri Oct 26 04:17:16 2018]: Reposted wall-172798417_15
+[INFO] [Fri Oct 26 04:17:18 2018]: Reposted wall-133349452_11095
+[INFO] [Fri Oct 26 04:39:50 2018]: Word бийск found in суши new (суши,роллы,пицца) бийск
+[INFO] [Fri Oct 26 04:39:52 2018]: Reposted wall-151870733_6475
+[INFO] [Fri Oct 26 04:39:53 2018]: Reposted wall-158135380_75830
+[INFO] [Fri Oct 26 05:02:25 2018]: Reposted wall-106401916_46406
+[INFO] [Fri Oct 26 05:02:27 2018]: Word кола found in автошкола рейн авто, город симферополь
+[INFO] [Fri Oct 26 05:02:29 2018]: Reposted wall-50847491_323084
+[INFO] [Fri Oct 26 05:25:02 2018]: Reposted wall-58912288_149889
+[INFO] [Fri Oct 26 05:25:04 2018]: Word бирск found in афиша новосибирска
+[INFO] [Fri Oct 26 05:47:36 2018]: Reposted wall-169092239_1436
+[INFO] [Fri Oct 26 05:47:38 2018]: Reposted wall-18011919_43359
+[INFO] [Fri Oct 26 05:47:40 2018]: Reposted wall-166470682_48
+[INFO] [Fri Oct 26 06:10:12 2018]: Reposted wall-14448210_55900
+[INFO] [Fri Oct 26 06:10:13 2018]: Word орск found in город саяногорск
+[INFO] [Fri Oct 26 06:10:15 2018]: Word магазин found in любимое платье / магазин женской одежды
+[INFO] [Fri Oct 26 06:32:47 2018]: Word новотроицк found in суши маркет панда | новотроицк | суши-роллы
+[INFO] [Fri Oct 26 06:32:49 2018]: Reposted wall-166333565_678
+[INFO] [Fri Oct 26 06:32:50 2018]: Word планета found in офисная планета канцтовары бумага красноярск
+[INFO] [Fri Oct 26 06:55:22 2018]: Word магазин found in музыкальный магазин ''musicmax'' г.братск
+[INFO] [Fri Oct 26 06:55:24 2018]: Reposted wall-121184650_3281
+[INFO] [Fri Oct 26 07:17:57 2018]: Word камышин found in вд чистые сердца (отдам даром, камышин)
+[INFO] [Fri Oct 26 07:17:59 2018]: Reposted wall-84037770_43903
+[INFO] [Fri Oct 26 07:18:01 2018]: Reposted wall-99924300_12366
+[INFO] [Fri Oct 26 07:40:33 2018]: Word бирск found in выпускные альбомы, фотокниги новосибирск 2018
+[INFO] [Fri Oct 26 07:40:35 2018]: Reposted wall-150203802_105
+[INFO] [Fri Oct 26 08:03:10 2018]: Reposted wall-153626069_12398
+[INFO] [Fri Oct 26 08:03:12 2018]: Word город found in город завтра | информационный портал
+[INFO] [Fri Oct 26 08:03:13 2018]: Reposted wall-24831014_410066
+[INFO] [Fri Oct 26 08:25:45 2018]: Word тольятти found in самара тольятти объявления бесплатная реклама
+[INFO] [Fri Oct 26 08:25:47 2018]: Word майский found in подслушано майский
+[INFO] [Fri Oct 26 08:25:48 2018]: Word трк found in трк столица пермь
+[INFO] [Fri Oct 26 08:25:48 2018]: researching
+[INFO] [Fri Oct 26 08:25:50 2018]: Word тверь found in подари мне |розыгрыши | бесплатная тверь
+[INFO] [Fri Oct 26 08:25:52 2018]: Word город found in балтаси.ру - городской портал!
+[INFO] [Fri Oct 26 08:25:53 2018]: researching
+[INFO] [Fri Oct 26 08:25:55 2018]: Reposted wall-80096849_21217
+[INFO] [Fri Oct 26 08:25:57 2018]: Reposted wall-83874113_278
+[INFO] [Fri Oct 26 08:25:58 2018]: Word магазин found in интернет - зоомагазин: планета zoo
+[INFO] [Fri Oct 26 08:48:31 2018]: Reposted wall-140441839_5831
+[INFO] [Fri Oct 26 08:48:32 2018]: Word магазин found in интернет магазин товаров "  top-fashion"
+[INFO] [Fri Oct 26 08:48:34 2018]: Word магазин found in интернет магазин товаров "  top-fashion"
+[INFO] [Fri Oct 26 09:11:06 2018]: Word тайга found in тайган - zoo
+[INFO] [Fri Oct 26 09:11:07 2018]: Word оса found in magic_soap_sergiev_posad|мыло_сергиев_посад
+[INFO] [Fri Oct 26 09:11:09 2018]: Word дочки found in дочки&сыночки"детские товары г.пермь ул.юрша 84
+[INFO] [Fri Oct 26 09:11:09 2018]: researching
+[INFO] [Fri Oct 26 09:11:12 2018]: Reposted wall-173002661_70
+[INFO] [Fri Oct 26 09:33:46 2018]: Reposted wall-166132682_62
+[INFO] [Fri Oct 26 09:33:47 2018]: Reposted wall-115329545_29889
+[INFO] [Fri Oct 26 09:33:49 2018]: Reposted wall-51052379_15075
+[INFO] [Fri Oct 26 09:56:21 2018]: Reposted wall-172910273_24
+[INFO] [Fri Oct 26 09:56:23 2018]: Reposted wall-153713892_174
+[INFO] [Fri Oct 26 09:56:25 2018]: Reposted wall-113049286_11990
+[INFO] [Fri Oct 26 10:18:57 2018]: Word тамбов found in рисовая мафия тамбов. доставка суши, роллов
+[INFO] [Fri Oct 26 10:18:59 2018]: Reposted wall-152803339_90816
+[INFO] [Fri Oct 26 10:19:01 2018]: Reposted wall-152803339_90815
+[INFO] [Fri Oct 26 10:41:33 2018]: Reposted wall-85492632_4828
+[INFO] [Fri Oct 26 10:41:35 2018]: Word мамадыш found in sushi house / суши хаус /мамадыш 89-600-600-117
+[INFO] [Fri Oct 26 10:41:36 2018]: Reposted wall-125981273_11244
+[INFO] [Fri Oct 26 10:41:37 2018]: Created '1' comment
+[INFO] [Fri Oct 26 11:04:09 2018]: Word кола found in шоколадный подарок/буквы. вышний волочёк. тверь
+[INFO] [Fri Oct 26 11:04:10 2018]: Reposted wall-62360776_476
+[INFO] [Fri Oct 26 11:04:12 2018]: Word кафе found in sk bar клуб | рок-кафе | чебоксары
+[INFO] [Fri Oct 26 11:26:45 2018]: Word магазин found in магазин сантехники "сифон и борода" ошмяны
+[INFO] [Fri Oct 26 11:26:47 2018]: Word истра found in avon эйвон, регистрация, акции, подарки
+[INFO] [Fri Oct 26 11:26:47 2018]: researching
+[INFO] [Fri Oct 26 11:26:49 2018]: Reposted wall-146248878_842
+[INFO] [Fri Oct 26 11:26:50 2018]: Reposted wall-169052312_1623
+[INFO] [Fri Oct 26 11:26:52 2018]: Reposted wall-41724412_9382
+[INFO] [Fri Oct 26 11:49:26 2018]: Reposted wall-34325617_1505
+[INFO] [Fri Oct 26 12:11:59 2018]: Word парк found in активити-парк «космос»
+[INFO] [Fri Oct 26 12:12:01 2018]: Reposted wall-34273828_34757
+[INFO] [Fri Oct 26 12:12:03 2018]: Reposted wall-172967179_5
+[INFO] [Fri Oct 26 12:34:36 2018]: Word куйбышев found in наращивание ресниц в новокуйбышевске
+[INFO] [Fri Oct 26 12:34:38 2018]: Reposted wall-127837809_1318
+[INFO] [Fri Oct 26 12:34:38 2018]: Created '1' comment
+[INFO] [Fri Oct 26 12:43:21 2018]: Initialized
+[INFO] [Fri Oct 26 12:43:26 2018]: Reposted wall-24831848_1175
+[INFO] [Fri Oct 26 13:05:58 2018]: Reposted wall-171512079_43
+[INFO] [Fri Oct 26 13:06:02 2018]: Reposted wall-103704195_617
+[INFO] [Fri Oct 26 13:28:34 2018]: Reposted wall-66291090_3041
+[INFO] [Fri Oct 26 13:28:36 2018]: Reposted wall-172074394_104
+[INFO] [Fri Oct 26 13:28:37 2018]: Reposted wall-162436110_1617
+[INFO] [Fri Oct 26 13:51:10 2018]: Reposted wall-172763463_14
+[INFO] [Fri Oct 26 13:53:10 2018]: Initialized
+[INFO] [Fri Oct 26 13:53:12 2018]: Word салават found in химчистка город салават
+[INFO] [Fri Oct 26 13:53:14 2018]: Word центр found in мбу "стадион "центральный"
+[INFO] [Fri Oct 26 13:53:15 2018]: Word белгород found in vape shop relaxvape белгород
+[INFO] [Fri Oct 26 13:53:15 2018]: researching
+[INFO] [Fri Oct 26 13:53:17 2018]: Reposted wall-141347635_2882
+[INFO] [Fri Oct 26 13:53:20 2018]: Reposted wall-118757085_490
+[INFO] [Fri Oct 26 14:15:52 2018]: Word магазин found in твоя полка иркутск | магазин-барахолка ®©
+[INFO] [Fri Oct 26 14:15:54 2018]: Word сим found in funky town crimea 6 (28 октября симферополь)
+[INFO] [Fri Oct 26 14:15:55 2018]: researching
+[INFO] [Fri Oct 26 14:15:57 2018]: Reposted wall-109934013_9676
+[INFO] [Fri Oct 26 14:15:59 2018]: Reposted wall-54013086_3721146
+[INFO] [Fri Oct 26 14:16:01 2018]: Word парк found in батутный парк просто космос | казань
+[INFO] [Fri Oct 26 14:38:32 2018]: Word оренбург found in взнакомстве56 оренбург и оренбургская область
+[INFO] [Fri Oct 26 14:38:35 2018]: researching
+[INFO] [Fri Oct 26 14:38:40 2018]: Reposted wall-136147689_1015
+[INFO] [Fri Oct 26 15:01:12 2018]: Word воронеж found in mamavrn.ru форум воронежских родителей
+[INFO] [Fri Oct 26 15:01:14 2018]: Word саратов found in кинотеатр синема 5 | саратов
+[INFO] [Fri Oct 26 15:01:15 2018]: Word парк found in артпарк новороссийск
+[INFO] [Fri Oct 26 15:01:15 2018]: researching
+[INFO] [Fri Oct 26 15:01:17 2018]: Word междуреченск found in кузовной ремонт | междуреченск
+[INFO] [Fri Oct 26 15:01:20 2018]: Reposted wall-43131910_37413
+[INFO] [Fri Oct 26 15:23:52 2018]: Reposted wall-165476683_397
+[INFO] [Fri Oct 26 15:23:54 2018]: Word минск found in джинсовые аксессуары* elen-lz *, г.минск
+[INFO] [Fri Oct 26 15:23:56 2018]: Reposted wall-155269653_1312
+[INFO] [Fri Oct 26 15:46:29 2018]: Reposted wall-171933897_102
+[INFO] [Fri Oct 26 15:46:31 2018]: Word магазин found in интернет-магазин persona
+[INFO] [Fri Oct 26 16:09:03 2018]: Reposted wall-128149082_3741
+[INFO] [Fri Oct 26 16:09:05 2018]: Word фитнес found in active life. ижевск - спорт, фитнес, новости
+[INFO] [Fri Oct 26 16:09:06 2018]: Word мичуринск found in бесплатный мичуринск
+[INFO] [Fri Oct 26 16:31:39 2018]: Reposted wall-148006924_14752
+[INFO] [Fri Oct 26 16:31:41 2018]: Reposted wall-79925455_64740
+[INFO] [Fri Oct 26 16:31:42 2018]: Word бар found in детская барахолка беларусь
+[INFO] [Fri Oct 26 16:35:50 2018]: Initialized
+[INFO] [Fri Oct 26 16:35:56 2018]: Word тольятти found in реклама / объявления тольятти, самара, ульяновск
+[INFO] [Fri Oct 26 16:35:57 2018]: Word краснознаменск found in краснознаменск сегодня
+[INFO] [Fri Oct 26 16:35:59 2018]: Reposted wall-102892794_2367
+[INFO] [Fri Oct 26 16:58:31 2018]: Reposted wall-169405113_1803
+[INFO] [Fri Oct 26 16:58:33 2018]: Reposted wall-152893483_17643
+[INFO] [Fri Oct 26 16:58:35 2018]: Reposted wall-121499749_1165
+[INFO] [Fri Oct 26 17:21:07 2018]: Reposted wall-163132901_223
+[INFO] [Fri Oct 26 17:21:08 2018]: Word мышкин found in свадебные аксессуары ручной работы!!мышкин.углич
+[INFO] [Fri Oct 26 17:21:10 2018]: Reposted wall-148988443_14174
+[INFO] [Fri Oct 26 17:43:44 2018]: Word парк found in парк аттракционов- fun fantastic world г.королев
+[INFO] [Fri Oct 26 17:43:46 2018]: Reposted wall-165637682_197
+[INFO] [Fri Oct 26 18:06:18 2018]: Word киров found in renault (рено) в кирове и в.полянах
+[INFO] [Fri Oct 26 18:06:19 2018]: Reposted wall-63492152_35154
+[INFO] [Fri Oct 26 18:28:53 2018]: Word бар found in night train saloon / бар для байкеров / москва
+[INFO] [Fri Oct 26 18:28:54 2018]: Word сарапул found in гриль - кафе papr&co | доставка | сарапул
+[INFO] [Fri Oct 26 18:28:56 2018]: researching
+[INFO] [Fri Oct 26 18:28:58 2018]: Reposted wall-155676634_11554
+[INFO] [Fri Oct 26 18:28:59 2018]: Reposted wall-105152785_44
+[INFO] [Fri Oct 26 18:29:01 2018]: Reposted wall-172949581_22
+[INFO] [Fri Oct 26 18:29:02 2018]: Created '1' comment
+[INFO] [Fri Oct 26 18:51:34 2018]: Reposted wall-84714079_34607
+[INFO] [Fri Oct 26 18:51:37 2018]: Reposted wall-171841788_46
+[INFO] [Fri Oct 26 19:14:10 2018]: Reposted wall-18909368_107564
+[INFO] [Fri Oct 26 19:36:45 2018]: Reposted wall-128822849_82415
+[INFO] [Fri Oct 26 19:36:47 2018]: Reposted wall-164680937_124
+[INFO] [Fri Oct 26 19:36:47 2018]: Created '1' comment
+[INFO] [Fri Oct 26 19:59:20 2018]: Reposted wall-169917164_14
+[INFO] [Fri Oct 26 19:59:22 2018]: Reposted wall-171980569_21
+[INFO] [Fri Oct 26 20:21:56 2018]: Reposted wall-163047708_2303
+[INFO] [Fri Oct 26 20:21:57 2018]: Created '1' comment
+[INFO] [Fri Oct 26 20:21:58 2018]: Word кола found in подслушано гимназия г.троицка (школа 6)
+[INFO] [Fri Oct 26 20:22:00 2018]: Reposted wall-75757287_5513
+[INFO] [Fri Oct 26 20:44:32 2018]: Word севастополь found in щедрый севастополь 0 р.
+[INFO] [Fri Oct 26 20:44:34 2018]: Reposted wall-90256822_831
+[INFO] [Fri Oct 26 20:44:34 2018]: Created '1' comment
+[INFO] [Fri Oct 26 20:44:36 2018]: Word кстово found in подслушано в городе кстово
+[INFO] [Fri Oct 26 21:07:08 2018]: Word клуб found in клуб матизов(москва и мо)
+[INFO] [Fri Oct 26 21:07:11 2018]: Word рославль found in маникюр,гель-лак,педикюр/брагино/ярославль/ника
+[INFO] [Fri Oct 26 21:07:11 2018]: researching
+[INFO] [Fri Oct 26 21:07:12 2018]: Reposted wall-159071165_1501
+[INFO] [Fri Oct 26 21:07:14 2018]: Word любим found in мастерская татьяны зайцевой  "любимый костюмчик"
+[INFO] [Fri Oct 26 21:07:16 2018]: Reposted wall-155550311_36592
+[INFO] [Fri Oct 26 21:29:48 2018]: Reposted wall-169494090_266
+[INFO] [Fri Oct 26 21:29:50 2018]: Reposted wall-141441673_8020
+[INFO] [Fri Oct 26 21:29:51 2018]: Word санкт-петербург found in типичный hearthstone | санкт-петербург
+[INFO] [Fri Oct 26 21:43:33 2018]: Initialized
+[INFO] [Fri Oct 26 21:43:37 2018]: Reposted wall-172892562_56
+[INFO] [Fri Oct 26 21:43:39 2018]: Reposted wall-152825890_60
+[INFO] [Fri Oct 26 22:00:22 2018]: Reposted wall-27779191_6163
+[INFO] [Fri Oct 26 22:00:23 2018]: Word донецк found in мягкая мебель "сота" донецк
+[INFO] [Fri Oct 26 22:00:25 2018]: Reposted wall-104613662_52232
+[INFO] [Fri Oct 26 22:17:07 2018]: Reposted wall-120990217_1719
+[INFO] [Fri Oct 26 22:17:09 2018]: Reposted wall-152742384_323
+[INFO] [Fri Oct 26 22:17:11 2018]: Word дзержинск found in игрушки hande made дзержинск
+[INFO] [Fri Oct 26 22:33:53 2018]: Reposted wall-135860083_92
+[INFO] [Fri Oct 26 22:33:55 2018]: Word питер found in фотопроект я—модель! // питер | 20.10—28.10 |
+[INFO] [Fri Oct 26 22:50:38 2018]: Reposted wall-173087248_18
+[INFO] [Fri Oct 26 22:50:40 2018]: Reposted wall-155339406_2273
+[INFO] [Fri Oct 26 22:50:42 2018]: Reposted wall-152803339_90928
+[INFO] [Fri Oct 26 23:07:24 2018]: Reposted wall-172820332_4
+[INFO] [Fri Oct 26 23:07:26 2018]: Word шумерля found in подслушано шумерля (адекватно)
+[INFO] [Fri Oct 26 23:07:27 2018]: Reposted wall-115331015_80418
+[INFO] [Fri Oct 26 23:24:11 2018]: Reposted wall-170075763_322
+[INFO] [Fri Oct 26 23:24:13 2018]: Reposted wall-34890454_17976
+[INFO] [Fri Oct 26 23:40:55 2018]: Reposted wall-170633629_3
+[INFO] [Fri Oct 26 23:40:57 2018]: Reposted wall-59666540_283
+[INFO] [Fri Oct 26 23:40:58 2018]: Reposted wall-33930750_3972
+[INFO] [Fri Oct 26 23:57:40 2018]: Word магазин found in dimikey.com - отзывы о магазине аккаунтов!
+[INFO] [Fri Oct 26 23:57:43 2018]: Word новый оскол found in объявления чернянка|новый оскол
+[INFO] [Fri Oct 26 23:57:43 2018]: researching
+[INFO] [Fri Oct 26 23:57:45 2018]: Reposted wall-172672539_16
+[INFO] [Fri Oct 26 23:57:47 2018]: Word оса found in розыгрыши  от заноса
+[INFO] [Fri Oct 26 23:57:49 2018]: Reposted wall-131141049_17368
+[INFO] [Sat Oct 27 00:14:34 2018]: Reposted wall-127674746_7044
+[INFO] [Sat Oct 27 00:31:16 2018]: Reposted wall-118364935_2033
+[INFO] [Sat Oct 27 00:31:18 2018]: Reposted wall-172792403_19
+[INFO] [Sat Oct 27 00:31:20 2018]: Reposted wall-172481321_13
+[INFO] [Sat Oct 27 00:48:02 2018]: Word бар found in черный рынок | уфа барахолка выкуп авто
+[INFO] [Sat Oct 27 00:48:03 2018]: Reposted wall-159071165_1507
+[INFO] [Sat Oct 27 00:48:05 2018]: Reposted wall-129318507_2434
+[INFO] [Sat Oct 27 01:04:49 2018]: Reposted wall-40473153_9383
+[INFO] [Sat Oct 27 01:04:52 2018]: Reposted wall-155311236_770
+[INFO] [Sat Oct 27 01:04:52 2018]: Created '1' comment
+[INFO] [Sat Oct 27 01:21:36 2018]: Reposted wall-159071165_1508
+[INFO] [Sat Oct 27 01:21:38 2018]: Reposted wall-159610666_585
+[INFO] [Sat Oct 27 01:38:20 2018]: Reposted wall-119745477_105
+[INFO] [Sat Oct 27 01:38:23 2018]: Reposted wall-149726554_873
+[INFO] [Sat Oct 27 01:55:06 2018]: Word валуйки found in парфюмерия и косметика валуйки
+[INFO] [Sat Oct 27 01:55:07 2018]: Reposted wall-166107242_37
+[INFO] [Sat Oct 27 01:55:09 2018]: Reposted wall-142510786_1080
+[INFO] [Sat Oct 27 02:11:53 2018]: Reposted wall-149527535_2462
+[INFO] [Sat Oct 27 02:11:53 2018]: Created '1' comment
+[INFO] [Sat Oct 27 02:11:54 2018]: Word нижний новгород found in свидание на крыше  нижний новгород
+[INFO] [Sat Oct 27 02:28:40 2018]: Reposted wall-149527535_2462
+[INFO] [Sat Oct 27 02:28:40 2018]: Created '2' comment
+[INFO] [Sat Oct 27 02:45:22 2018]: Reposted wall-78885113_3621
+[INFO] [Sat Oct 27 02:45:26 2018]: Reposted wall-168160447_104
+[INFO] [Sat Oct 27 03:02:08 2018]: Reposted wall-173127386_2
+[INFO] [Sat Oct 27 03:02:09 2018]: Word бар found in черный рынок | уфа барахолка выкуп авто
+[INFO] [Sat Oct 27 03:02:11 2018]: Reposted wall-78885113_3621
+[INFO] [Sat Oct 27 03:18:53 2018]: Reposted wall-167597251_3
+[INFO] [Sat Oct 27 03:18:55 2018]: Reposted wall-173127386_2
+[INFO] [Sat Oct 27 03:18:57 2018]: Word бар found in черный рынок | уфа барахолка выкуп авто
+[INFO] [Sat Oct 27 03:35:38 2018]: Word междуреченск found in типичный междуреченск [тм]
+[INFO] [Sat Oct 27 03:35:41 2018]: Reposted wall-118023313_4679
+[INFO] [Sat Oct 27 03:35:43 2018]: Reposted wall-167597251_3
+[INFO] [Sat Oct 27 03:52:25 2018]: Word междуреченск found in типичный междуреченск [тм]
+[INFO] [Sat Oct 27 03:52:28 2018]: Reposted wall-118023313_4679
+[INFO] [Sat Oct 27 03:52:30 2018]: Reposted wall-167597251_3
+[INFO] [Sat Oct 27 04:09:12 2018]: Reposted wall-133349452_11098
+[INFO] [Sat Oct 27 04:09:13 2018]: Reposted wall-55908456_57108
+[INFO] [Sat Oct 27 04:09:15 2018]: Reposted wall-91273906_7179
+[INFO] [Sat Oct 27 04:25:57 2018]: Word комсомольск found in квест ночь живых мертвецов/ комсомольск-на-амуре
+[INFO] [Sat Oct 27 04:25:59 2018]: Word горно-алтайск found in roll'n'roll *роллы*суши*пицца*   г.горно-алтайск
+[INFO] [Sat Oct 27 04:26:00 2018]: Reposted wall-133349452_11098
+[INFO] [Sat Oct 27 04:42:43 2018]: Reposted wall-105759967_5977
+[INFO] [Sat Oct 27 04:42:43 2018]: Created '1' comment
+[INFO] [Sat Oct 27 04:42:45 2018]: Reposted wall-36465079_1877261
+[INFO] [Sat Oct 27 04:42:46 2018]: Word комсомольск found in квест ночь живых мертвецов/ комсомольск-на-амуре
+[INFO] [Sat Oct 27 04:59:28 2018]: Word бирск found in интересный новосибирск
+[INFO] [Sat Oct 27 04:59:30 2018]: Reposted wall-161701376_143651
+[INFO] [Sat Oct 27 04:59:31 2018]: Reposted wall-79494088_6288
+[INFO] [Sat Oct 27 05:16:14 2018]: Reposted wall-158135380_76008
+[INFO] [Sat Oct 27 05:16:15 2018]: Reposted wall-158135380_76007
+[INFO] [Sat Oct 27 05:16:17 2018]: Word бирск found in международная школа танцев youdance новосибирск
+[INFO] [Sat Oct 27 05:32:59 2018]: Reposted wall-167552736_96
+[INFO] [Sat Oct 27 05:33:01 2018]: Reposted wall-129730854_15201
+[INFO] [Sat Oct 27 05:33:02 2018]: Word бар found in курьерская пчёлка | барнаул | доставка | 534713
+[INFO] [Sat Oct 27 05:49:44 2018]: Reposted wall-163520069_120
+[INFO] [Sat Oct 27 05:49:46 2018]: Reposted wall-83224078_1219
+[INFO] [Sat Oct 27 06:06:31 2018]: Word кафе found in доставка еды кафе "миндаль"
+[INFO] [Sat Oct 27 06:06:33 2018]: Word бронницы found in розыгрыши раменское , жуковский, бронницы и др.
+[INFO] [Sat Oct 27 06:06:33 2018]: researching
+[INFO] [Sat Oct 27 06:06:34 2018]: Reposted wall-164163587_45
+[INFO] [Sat Oct 27 06:06:36 2018]: Reposted wall-109647062_4251
+[INFO] [Sat Oct 27 06:06:38 2018]: Reposted wall-163520069_120
+[INFO] [Sat Oct 27 06:23:20 2018]: Word троицк found in love суши троицкое
+[INFO] [Sat Oct 27 06:23:21 2018]: Reposted wall-169298144_38
+[INFO] [Sat Oct 27 06:23:23 2018]: Word бирск found in афиша новосибирска
+[INFO] [Sat Oct 27 06:40:06 2018]: Reposted wall-172455888_34
+[INFO] [Sat Oct 27 06:40:09 2018]: Reposted wall-149564000_101
+[INFO] [Sat Oct 27 06:56:51 2018]: Reposted wall-57412815_495122
+[INFO] [Sat Oct 27 06:56:51 2018]: Created '1' comment
+[INFO] [Sat Oct 27 06:56:53 2018]: Reposted wall-60780565_45605
+[INFO] [Sat Oct 27 06:56:53 2018]: Created '1' comment
+[INFO] [Sat Oct 27 06:56:55 2018]: Word нязепетровск found in районный дом культуры г. нязепетровск
+[INFO] [Sat Oct 27 07:13:37 2018]: Reposted wall-172732830_14
+[INFO] [Sat Oct 27 07:13:39 2018]: Reposted wall-165670853_1533
+[INFO] [Sat Oct 27 07:13:40 2018]: Word стерлитамак found in букет букетович стерлитамак
+[INFO] [Sat Oct 27 07:30:22 2018]: Reposted wall-172900345_9
+[INFO] [Sat Oct 27 07:30:24 2018]: Reposted wall-163033990_36385
+[INFO] [Sat Oct 27 07:30:26 2018]: Word магазин found in магазин ювелирных украшений аврора52
+[INFO] [Sat Oct 27 07:47:08 2018]: Word покров found in подслушано покровка -платовка
+[INFO] [Sat Oct 27 07:47:09 2018]: Reposted wall-172782948_59
+[INFO] [Sat Oct 27 07:47:10 2018]: Created '1' comment
+[INFO] [Sat Oct 27 07:47:11 2018]: Word оренбург found in оригами - доставка суши роллов пиццы оренбург
+[INFO] [Sat Oct 27 08:03:53 2018]: Reposted wall-153626069_12543
+[INFO] [Sat Oct 27 08:03:55 2018]: Reposted wall-24831014_410227
+[INFO] [Sat Oct 27 08:03:57 2018]: Reposted wall-153626069_12542
+[INFO] [Sat Oct 27 08:20:39 2018]: Word севастополь found in скорочтение | каллиграфия | севастополь ас92
+[INFO] [Sat Oct 27 08:20:40 2018]: Reposted wall-88293384_1023
+[INFO] [Sat Oct 27 08:20:42 2018]: Reposted wall-167523161_892
+[INFO] [Sat Oct 27 08:37:25 2018]: Reposted wall-30806916_85001
+[INFO] [Sat Oct 27 08:37:25 2018]: Created '1' comment
+[INFO] [Sat Oct 27 08:37:27 2018]: Reposted wall-172944236_60
+[INFO] [Sat Oct 27 08:54:10 2018]: Reposted wall-133231825_688
+[INFO] [Sat Oct 27 08:54:12 2018]: Reposted wall-129097226_1323
+[INFO] [Sat Oct 27 08:54:14 2018]: Word ростов found in торика. ростовые цветы и светильники
+[INFO] [Sat Oct 27 09:10:58 2018]: Reposted wall-172628127_87
+[INFO] [Sat Oct 27 09:10:59 2018]: Word белореченск found in белореченск
+[INFO] [Sat Oct 27 09:27:41 2018]: Reposted wall-92549734_2879
+[INFO] [Sat Oct 27 09:27:43 2018]: Word сим found in funky town crimea 6 (28 октября симферополь)
+[INFO] [Sat Oct 27 09:27:45 2018]: Reposted wall-161834174_7822
+[INFO] [Sat Oct 27 09:44:27 2018]: Reposted wall-64776863_216187
+[INFO] [Sat Oct 27 09:44:29 2018]: Reposted wall-64776863_216185
+[INFO] [Sat Oct 27 09:44:30 2018]: Reposted wall-124093620_278
+[INFO] [Sat Oct 27 10:01:13 2018]: Word город found in липецк - лучший город
+[INFO] [Sat Oct 27 10:01:14 2018]: Word тамбов found in рисовая мафия тамбов. доставка суши, роллов
+[INFO] [Sat Oct 27 10:01:16 2018]: Reposted wall-66725346_5029
+[INFO] [Sat Oct 27 10:17:58 2018]: Word парк found in ламинат псков // паркетная доска // плинтус
+[INFO] [Sat Oct 27 10:18:00 2018]: Word альметьевск found in мк "прически для себя" г.альметьевск
+[INFO] [Sat Oct 27 10:18:01 2018]: Reposted wall-170669508_77
+[INFO] [Sat Oct 27 10:34:45 2018]: Word клин found in ветеринарная клиника "квц 24" евпатория
+[INFO] [Sat Oct 27 10:34:46 2018]: Reposted wall-43781343_69625
+[INFO] [Sat Oct 27 10:51:29 2018]: Reposted wall-172600992_13
+[INFO] [Sat Oct 27 10:51:30 2018]: Reposted wall-143722296_4856
+[INFO] [Sat Oct 27 10:51:32 2018]: Reposted wall-45283519_624898
+[INFO] [Sat Oct 27 11:08:15 2018]: Reposted wall-153242923_631
+[INFO] [Sat Oct 27 11:08:16 2018]: Reposted wall-147416675_48416
+[INFO] [Sat Oct 27 11:08:18 2018]: Reposted wall-121645406_64
+[INFO] [Sat Oct 27 11:25:04 2018]: Reposted wall-31352126_24005
+[INFO] [Sat Oct 27 11:41:47 2018]: Reposted wall-119657557_1785
+[INFO] [Sat Oct 27 11:41:49 2018]: Word бердск found in розыгрыши новосибирск, бердск, искитим бесплатно
+[INFO] [Sat Oct 27 11:58:31 2018]: Reposted wall-171827125_811
+[INFO] [Sat Oct 27 11:58:32 2018]: Word шахты found in торты на заказ  шахты ● рецепты
+[INFO] [Sat Oct 27 11:58:34 2018]: Reposted wall-125332437_847
+[INFO] [Sat Oct 27 11:58:35 2018]: Created '1' comment
+[INFO] [Sat Oct 27 12:15:17 2018]: Word евпатория found in торты на заказ евпатория ● рецепты
+[INFO] [Sat Oct 27 12:15:18 2018]: Word раменское found in торты на заказ раменское ● рецепты
+[INFO] [Sat Oct 27 12:15:20 2018]: Word ноябрьск found in торты на заказ ноябрьск ● рецепты
+[INFO] [Sat Oct 27 12:15:20 2018]: researching
+[INFO] [Sat Oct 27 12:15:21 2018]: Word каспийск found in торты на заказ каспийск ● рецепты
+[INFO] [Sat Oct 27 12:15:23 2018]: Word северск found in торты на заказ северск  ● рецепты
+[INFO] [Sat Oct 27 12:15:24 2018]: Word кола found in школа - студия марины файзуллиной
+[INFO] [Sat Oct 27 12:15:24 2018]: researching
+[INFO] [Sat Oct 27 12:15:26 2018]: Word пушкин found in торты на заказ пушкино ● рецепты
+[INFO] [Sat Oct 27 12:15:28 2018]: Word любим found in warface l георгий любимов l варфейс
+[INFO] [Sat Oct 27 12:15:29 2018]: Word жуковский found in торты на заказ жуковский ● рецепты
+[INFO] [Sat Oct 27 12:15:29 2018]: researching
+[INFO] [Sat Oct 27 12:15:31 2018]: Word новошахтинск found in торты на заказ новошахтинск  ● рецепты
+[INFO] [Sat Oct 27 12:15:32 2018]: Reposted wall-152893483_17686
+[INFO] [Sat Oct 27 12:30:38 2018]: Initialized
+[INFO] [Sat Oct 27 12:30:41 2018]: Reposted wall-130991742_20555
+[INFO] [Sat Oct 27 12:30:43 2018]: Reposted wall-156270711_5650
+[INFO] [Sat Oct 27 12:47:25 2018]: Word лангепас found in детская барахолка лангепас
+[INFO] [Sat Oct 27 12:47:27 2018]: Reposted wall-84098607_8188
+[INFO] [Sat Oct 27 12:47:28 2018]: Reposted wall-127907617_274
+[INFO] [Sat Oct 27 13:04:11 2018]: Reposted wall-172034521_22
+[INFO] [Sat Oct 27 13:04:12 2018]: Reposted wall-34190249_1013
+[INFO] [Sat Oct 27 13:04:14 2018]: Word октябрьск found in горящие туры! леотур турагентство г. октябрьский
+[INFO] [Sat Oct 27 13:20:59 2018]: researching
+[INFO] [Sat Oct 27 13:21:02 2018]: Reposted wall-91802129_3169
+[INFO] [Sat Oct 27 13:21:04 2018]: Reposted wall-88585615_7260
+[INFO] [Sat Oct 27 13:37:47 2018]: Reposted wall-58274648_3965
+[INFO] [Sat Oct 27 13:37:48 2018]: Word муром found in весь  муром
+[INFO] [Sat Oct 27 13:37:50 2018]: Reposted wall-171857610_158
+[INFO] [Sat Oct 27 13:54:32 2018]: Reposted wall-173092695_77
+[INFO] [Sat Oct 27 13:54:34 2018]: Reposted wall-162753539_2444
+[INFO] [Sat Oct 27 13:54:34 2018]: Created '1' comment
+[INFO] [Sat Oct 27 13:54:36 2018]: Reposted wall-138129360_582
+[INFO] [Sat Oct 27 14:11:18 2018]: Reposted wall-172048510_130
+[INFO] [Sat Oct 27 14:11:20 2018]: Reposted wall-160999807_2934
+[INFO] [Sat Oct 27 14:11:22 2018]: Reposted wall-77205392_6441
+[INFO] [Sat Oct 27 14:28:07 2018]: Reposted wall-167992651_103
+[INFO] [Sat Oct 27 14:28:08 2018]: Reposted wall-169786077_35
+[INFO] [Sat Oct 27 14:44:51 2018]: Reposted wall-171900635_263
+[INFO] [Sat Oct 27 14:44:54 2018]: Reposted wall-167810641_181
+[INFO] [Sat Oct 27 15:01:36 2018]: Reposted wall-111420268_124
+[INFO] [Sat Oct 27 15:01:38 2018]: Word сургут found in кухни вардек в сургуте
+[INFO] [Sat Oct 27 15:01:40 2018]: Reposted wall-128760590_8219
+[INFO] [Sat Oct 27 15:18:22 2018]: Reposted wall-172948736_57
+[INFO] [Sat Oct 27 15:18:24 2018]: Reposted wall-19332012_13036
+[INFO] [Sat Oct 27 15:18:25 2018]: Word трк found in трк столица пермь
+[INFO] [Sat Oct 27 15:35:10 2018]: Reposted wall-168010651_32
+[INFO] [Sat Oct 27 15:51:52 2018]: Word мариинск found in кдц "юбилейный" г.мариинск
+[INFO] [Sat Oct 27 15:51:56 2018]: Reposted wall-36088072_3792
+[INFO] [Sat Oct 27 16:08:41 2018]: Reposted wall-162122669_1165
+[INFO] [Sat Oct 27 16:25:23 2018]: Word красноармейск found in подслушано "красноармейское"
+[INFO] [Sat Oct 27 16:25:24 2018]: Word кронштадт found in суши хаус г.кронштадт
+[INFO] [Sat Oct 27 16:25:26 2018]: Word кола found in школа танцев styleclub (хастл в москве)
+[INFO] [Sat Oct 27 16:25:26 2018]: researching
+[INFO] [Sat Oct 27 16:25:29 2018]: Reposted wall-156803893_1217
+[INFO] [Sat Oct 27 16:25:31 2018]: Word вологда found in автозвук бу вологда вологодская область
+[INFO] [Sat Oct 27 16:42:13 2018]: Word парк found in аквапарк "акваполис"
+[INFO] [Sat Oct 27 16:42:15 2018]: Reposted wall-58999428_35121
+[INFO] [Sat Oct 27 16:42:16 2018]: Word новочеркасск found in кинотеатр "космос" г.новочеркасск
+[INFO] [Sat Oct 27 16:58:59 2018]: Reposted wall-100387013_1561320
+[INFO] [Sat Oct 27 16:59:01 2018]: Reposted wall-149486801_44
+[INFO] [Sat Oct 27 17:15:44 2018]: Word оренбург found in всё про оренбург
+[INFO] [Sat Oct 27 17:15:46 2018]: Reposted wall-100366578_7401
+[INFO] [Sat Oct 27 17:15:48 2018]: Reposted wall-169080737_429
+[INFO] [Sat Oct 27 17:32:30 2018]: Reposted wall-109204012_4329
+[INFO] [Sat Oct 27 17:32:30 2018]: Created '1' comment
+[INFO] [Sat Oct 27 17:32:32 2018]: Reposted wall-164665381_332
+[INFO] [Sat Oct 27 17:32:34 2018]: Word оренбург found in сотэлит*iphone/прод/ремонт/телефонов в оренбурге
+[INFO] [Sat Oct 27 17:49:16 2018]: Word кола found in redsound: школа вокала и ораторского мастерства
+[INFO] [Sat Oct 27 17:49:18 2018]: Reposted wall-60445925_1256
+[INFO] [Sat Oct 27 18:06:02 2018]: Reposted wall-53493632_22119
+[INFO] [Sat Oct 27 18:06:04 2018]: Reposted wall-55172197_1020
+[INFO] [Sat Oct 27 18:06:05 2018]: Word белгород found in апасный и модный белгород
+[INFO] [Sat Oct 27 18:22:50 2018]: Word тула found in кафе «для своих»  г.тула
+[INFO] [Sat Oct 27 18:22:50 2018]: researching
+[INFO] [Sat Oct 27 18:22:52 2018]: Reposted wall-106936460_15906
+[INFO] [Sat Oct 27 18:22:54 2018]: Word нижний новгород found in coffee like нижний новгород. кофе с собой
+[INFO] [Sat Oct 27 18:22:56 2018]: Reposted wall-171271287_63
+[INFO] [Sat Oct 27 18:39:38 2018]: Reposted wall-171900635_288
+[INFO] [Sat Oct 27 18:39:40 2018]: Reposted wall-164326487_42
+[INFO] [Sat Oct 27 18:39:41 2018]: Reposted wall-173152346_2
+[INFO] [Sat Oct 27 18:56:24 2018]: Reposted wall-136570455_870
+[INFO] [Sat Oct 27 19:13:09 2018]: Word магазин found in этика | магазин полезных продуктов
+[INFO] [Sat Oct 27 19:13:10 2018]: Word калининград found in визы декларации туры загранпаспорт калининград
+[INFO] [Sat Oct 27 19:13:12 2018]: Word ресторан found in японsky(ресторан доставки)
+[INFO] [Sat Oct 27 19:13:12 2018]: researching
+[INFO] [Sat Oct 27 19:13:14 2018]: Reposted wall-435853_600510
+[INFO] [Sat Oct 27 19:13:15 2018]: Word березники found in букетто цветы подарки березники
+[INFO] [Sat Oct 27 19:13:17 2018]: Reposted wall-18909368_108335
+[INFO] [Sat Oct 27 19:29:59 2018]: Reposted wall-138100068_116589
+[INFO] [Sat Oct 27 19:30:01 2018]: Reposted wall-158349832_555
+[INFO] [Sat Oct 27 19:30:03 2018]: Word мариуполь found in массаж мариуполь "skyfit"
+[INFO] [Sat Oct 27 19:46:45 2018]: Word город found in молодежь  твоего  города
+[INFO] [Sat Oct 27 19:46:47 2018]: Reposted wall-172892478_65
+[INFO] [Sat Oct 27 19:46:48 2018]: Reposted wall-143148070_3759
+[INFO] [Sat Oct 27 20:03:31 2018]: Reposted wall-173030471_192
+[INFO] [Sat Oct 27 20:03:32 2018]: Word орск found in *полёт души* авторский массаж
+[INFO] [Sat Oct 27 20:03:34 2018]: Reposted wall-42077527_5719
+[INFO] [Sat Oct 27 20:20:16 2018]: Reposted wall-161307554_883
+[INFO] [Sat Oct 27 20:20:18 2018]: Reposted wall-164123586_999
+[INFO] [Sat Oct 27 20:37:02 2018]: Reposted wall-58274648_3987
+[INFO] [Sat Oct 27 20:37:04 2018]: Word клондайк found in клондайк "конкурсы и призы"
+[INFO] [Sat Oct 27 20:37:05 2018]: Word калининград found in фотограф в калининграде sheynina marina
+[INFO] [Sat Oct 27 20:53:47 2018]: Word оренбург found in сладкая сказка торты на заказ оренбург
+[INFO] [Sat Oct 27 20:53:49 2018]: Reposted wall-102865691_5582
+[INFO] [Sat Oct 27 21:10:33 2018]: Reposted wall-173151676_5
+[INFO] [Sat Oct 27 21:10:36 2018]: Word железногорск found in доставка пиццы и роллов в г.железногорск
+[INFO] [Sat Oct 27 21:27:18 2018]: Word колпино found in наращивание ресниц.восстановление волос колпино
+[INFO] [Sat Oct 27 21:27:21 2018]: Reposted wall-160033585_1872
